@@ -1,0 +1,63 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<form method="post" class="container mt-5">
+    @Html.AntiForgeryToken()
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card border-2 shadow-lg" style="border:2px solid #2B3035">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Log in</h5>
+                    
+                    <!-- Validation Summary -->
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+                    <!-- Email Input -->
+                    <div class="form-group">
+                        <label for="InputEmail">Email</label>
+                        <input asp-for="Input.Email" class="form-control" id="InputEmail" autocomplete="username" />
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+
+                    <!-- Password Input -->
+                    <div class="form-group">
+                        <label for="InputPassword">Password</label>
+                        <input asp-for="Input.Password" class="form-control" type="password" id="InputPassword" autocomplete="current-password" />
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+
+                    <!-- Remember Me -->
+                    <div class="form-check">
+                        <input asp-for="Input.RememberMe" class="form-check-input" />
+                        <label asp-for="Input.RememberMe" class="form-check-label">Remember Me</label>
+                    </div>
+
+                    <!-- Login Button -->
+                    <button type="submit" class="btn btn-outline-success btn-block">Log in</button>
+
+                    <!-- Links -->
+                    <div class="container mt-3">
+
+                        <p>
+                            <a asp-page="./Register">Don't have an account, Sign Up</a>
+                        </p>
+                       
+                    </div>
+
+                    <!-- External Logins -->
+                    
+                           
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
