@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\myOnlineMart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\myOnlineMart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\ass.png",
+      "PackagePath": "staticwebassets\\pic\\ass.png"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\download (1).jpeg",
+      "PackagePath": "staticwebassets\\pic\\download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\download.jpeg",
+      "PackagePath": "staticwebassets\\pic\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\dress.jpg",
+      "PackagePath": "staticwebassets\\pic\\dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\dress.webp",
+      "PackagePath": "staticwebassets\\pic\\dress.webp"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\gym.jpg",
+      "PackagePath": "staticwebassets\\pic\\gym.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\heey.jpg",
+      "PackagePath": "staticwebassets\\pic\\heey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\hey.png",
+      "PackagePath": "staticwebassets\\pic\\hey.png"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\images.jpeg",
+      "PackagePath": "staticwebassets\\pic\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\mee.jpg",
+      "PackagePath": "staticwebassets\\pic\\mee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myActivewear.jpg",
+      "PackagePath": "staticwebassets\\pic\\myActivewear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myAssess.jpg",
+      "PackagePath": "staticwebassets\\pic\\myAssess.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myBag.jpg",
+      "PackagePath": "staticwebassets\\pic\\myBag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myBeauty.jpg",
+      "PackagePath": "staticwebassets\\pic\\myBeauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myBottoms.jpg",
+      "PackagePath": "staticwebassets\\pic\\myBottoms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myDress.jpg",
+      "PackagePath": "staticwebassets\\pic\\myDress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myPj.jpg",
+      "PackagePath": "staticwebassets\\pic\\myPj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\myUnderwear.jpg",
+      "PackagePath": "staticwebassets\\pic\\myUnderwear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\store.jpg",
+      "PackagePath": "staticwebassets\\pic\\store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\top.webp",
+      "PackagePath": "staticwebassets\\pic\\top.webp"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\wa.png",
+      "PackagePath": "staticwebassets\\pic\\wa.png"
+    },
+    {
+      "Id": "C:\\Users\\mkhay\\source\\repos\\myOnlineMart\\wwwroot\\pic\\waa.png",
+      "PackagePath": "staticwebassets\\pic\\waa.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.myOnlineMart.props",
+      "PackagePath": "build\\myOnlineMart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.myOnlineMart.props",
+      "PackagePath": "buildMultiTargeting\\myOnlineMart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.myOnlineMart.props",
+      "PackagePath": "buildTransitive\\myOnlineMart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.myOnlineMart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
